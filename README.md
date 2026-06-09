@@ -38,7 +38,7 @@ Interactive Power BI dashboard analyzing:
 - Dynamic visualizations
 - Business performance insights
 
-[View Project](./electronic-products-sales-analysis)
+[View Project](./Electronic-products-sales-analysis)
 
 ---
 
