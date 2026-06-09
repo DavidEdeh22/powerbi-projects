@@ -179,7 +179,7 @@ electronic-products-sales-analysis/
 
 David Edeh
 
-- GitHub: https://github.com/DavidEdeh22
-- LinkedIn: http://www.linkedin.com/in/david-edeh-84aa65232
+<a href="https://github.com/DavidEdeh22"><kbd>Visit My GitHub Profile</kbd></a>
+<a href="http://www.linkedin.com/in/david-edeh-84aa65232"><kbd>Visit My LinkedIn Profile</kbd></a>
 
 ---
