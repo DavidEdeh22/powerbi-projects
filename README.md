@@ -50,7 +50,7 @@ More Power BI projects will be added as I continue building my analytics portfol
 
 David Edeh
 
-[![GitHub](https://shields.io)](https://github.com/DavidEdeh22)
+<a href="https://github.com/DavidEdeh22"><kbd>Visit My GitHub Profile</kbd></a>
 - LinkedIn: http://www.linkedin.com/in/david-edeh-84aa65232
 
 ---
