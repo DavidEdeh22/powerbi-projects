@@ -150,8 +150,7 @@ electronic-products-sales-analysis/
 │
 ├── README.md
 ├── dataset/
-├── visuals/
-└── documentation/
+└── visuals/
 ```
 
 ---
